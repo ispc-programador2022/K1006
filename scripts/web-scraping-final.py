@@ -30,4 +30,4 @@ for row in rows:
 df = pd.DataFrame({"Empresa" : empresa, "Pais" : pais, "Sector" : sector, "Capitalización Bursatil": cap_bursatil})
 print(df)
 #lo exporto a formato xlsx para el cargado a la base de datos
-df.to_excel("empresas1.xlsx")
+df.to_excel("empresas.xlsx")
