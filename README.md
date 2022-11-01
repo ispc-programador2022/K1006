@@ -17,6 +17,7 @@
 *   Francisco Otalora
 *   Tomas Escobar
 *   Juan Alcaraz
+*   Sila Charras
 
 ## Descripcion del proyecto
 
