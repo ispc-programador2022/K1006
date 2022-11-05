@@ -6,7 +6,7 @@ from csv import reader
 try:
     conexion = pymysql.connect(host='localhost',
                              user='root',
-                             password="2235709232",
+                             password="ingrese su contraseña",
                              db='empresas')
     #genero consultas, elimino tabla si existe y la creo
     try:
