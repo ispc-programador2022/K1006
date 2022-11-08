@@ -18,6 +18,7 @@
 *   Tomas Escobar
 *   Juan Alcaraz
 *   Sila Charras
+*   Federico Wilhelem
 
 ## Descripcion del proyecto
 
